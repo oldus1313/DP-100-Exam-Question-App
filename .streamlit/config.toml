@@ -1,7 +1,7 @@
-[server]
-headless = true
-address = "0.0.0.0"
-port = 5000
+# [server] 今回はstreamlitで実施する、その際のポート番号は8501らしいから
+# headless = true
+# address = "0.0.0.0"
+# port = 5000
 
 [theme]
 # Atom One Dark inspired theme
